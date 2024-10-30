@@ -1,0 +1,7 @@
+total 20
+-rwxrwxrwx 1 ubuntu ubuntu 274 Oct 12 08:20 [0m[01;32mbt1.sh[0m*
+-rwxrwxrwx 1 ubuntu ubuntu 732 Oct 12 08:30 [01;32mbt2.sh[0m*
+-rwxrwxrwx 1 ubuntu ubuntu 356 Oct 12 08:47 [01;32mbt31.sh[0m*
+-rwxrwxrwx 1 ubuntu ubuntu 515 Oct 12 08:53 [01;32mbt32.sh[0m*
+-rw------- 1 ubuntu ubuntu 471 Oct 12 08:59 news.txt
+-rw------- 1 ubuntu ubuntu   0 Oct 12 09:00 report_23520945.txt
